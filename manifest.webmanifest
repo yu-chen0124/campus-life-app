@@ -1,0 +1,20 @@
+{
+  "id": "./",
+  "name": "大學生活小程式",
+  "short_name": "大學生活",
+  "description": "飲食、記帳、交通、倒數與月行事曆，一起整理大學日常。",
+  "lang": "zh-Hant",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f1f2f4",
+  "theme_color": "#f1f2f4",
+  "icons": [
+    {
+      "src": "./app-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
